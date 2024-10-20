@@ -1,5 +1,5 @@
-# kalisch-gym-website
-Kalisch Gym Website 🥊
+# Kalisch Gym Website 🥊
+
 Welcome to the Kalisch Gym website repository! This project is a simple three-page website focused on a boxing gym that trains athletes for tournaments. The goal is to provide information about the gym, training programs, and tournament preparation, using modern web technologies. This README explains the project structure, technologies used, and instructions for setting up the project locally.
 
 Project Overview
